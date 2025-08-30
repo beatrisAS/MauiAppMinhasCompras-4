@@ -1,4 +1,3 @@
-```markdown
 # 🛒 Aplicativo Minhas Compras (.NET MAUI)
 
 ![.NET 9](https://img.shields.io/badge/.NET-9.0-blueviolet)
